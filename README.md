@@ -250,9 +250,9 @@ print(result)
 
 ## Example Output
 
-| Original | Encrypted | Decrypted |
-|:--------:|:---------:|:---------:|
-| ![original](/Users/jelaletdinseytjanov/Downloads/files/original.png) | ![encrypted](/Users/jelaletdinseytjanov/Downloads/files/encrypted.png) | ![decrypted](/Users/jelaletdinseytjanov/Downloads/files/decrypted.png) |
+|             Original             |             Encrypted              |             Decrypted              |
+|:--------------------------------:|:----------------------------------:|:----------------------------------:|
+| ![original](images/original.png) | ![encrypted](images/encrypted.png) | ![decrypted](images/decrypted.png) |
 
 Encrypted image appears as **random noise** — no structure, shapes, or colours from the original are visible. Decrypted image is **pixel-identical** to the original (PSNR = ∞ dB, MSE = 0).
 
