@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Optional (если не нужны)
+copy.png
+copy2.png
